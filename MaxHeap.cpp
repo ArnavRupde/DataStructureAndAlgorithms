@@ -5,7 +5,7 @@ class MaxHeap{
     int heap_size,capacity;
     int heaparr[100005];
     public: 
-
+    
     int parent(int child)
     { 
         int p = (child - 1)/2;
@@ -84,6 +84,7 @@ class MaxHeap{
         heap_size-=1;
         heapifydown(0);
     }
+    
 }; 
 int main()
 {

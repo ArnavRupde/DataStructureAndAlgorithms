@@ -67,3 +67,5 @@ public:
  * obj->update(i,val);
  * int param_2 = obj->sumRange(i,j);
  */
+
+// Refer Segment Tree Directory for Better Implementation

@@ -102,3 +102,5 @@ int main()
         }
     }
 }
+
+// Refer Segment Tree Directory for better implementation

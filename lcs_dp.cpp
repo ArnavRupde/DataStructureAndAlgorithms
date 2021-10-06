@@ -40,3 +40,9 @@ int main() {
 	
 	return 0;
 }
+
+// i/p 
+// X = "AGGTAB"
+// Y = "GXTXAYB"
+// o/p
+// 4
